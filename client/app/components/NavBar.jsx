@@ -21,7 +21,7 @@ var NavBar = React.createClass({
     return (
       <div className="navbar">
         <AppBar
-          title="Avinash Nandakumar"
+          title="Releve"
           iconClassNameRight="logo"
           onTitleTouchTap={this._goToIndex}
           onLeftIconButtonTouchTap={this._toggleAppDrawer}
